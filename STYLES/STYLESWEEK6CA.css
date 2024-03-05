@@ -1,0 +1,62 @@
+nav {
+    padding: 0.01%;
+    text-align: center;
+    font-size: 1em;
+    background-color:rgb(204, 211, 204) ;
+}
+
+nav ul li{
+    background-color:rgb(173, 48, 48) ;
+    display: inline;
+    padding: 9px;
+    margin: 5px;
+    border: 2px ;
+    border-radius: 20px;
+    text-decoration-color: aliceblue;
+}
+header{
+    padding: 10px;
+    text-align: right;
+    text-shadow:4px darkgray;
+}
+.veg_logo{
+    float: left; margin-right: 10px ; border: 10px;
+    border-radius: 3%;
+}
+
+h1{
+    text-align: left;
+    color: red;
+}
+footer{
+    background-color:rgb(204, 211, 204);
+    text-align: center;
+}
+
+.freshproduce{
+    width: 60%;
+    border: 2px solid rgb(243, 243, 243);
+    margin: auto 200px ;
+}
+
+.herbalTea{
+    border: 2px solid rgb(3, 3, 3);
+    margin: left 20%;
+    margin: right 20%;
+    margin-bottom: auto 100px;
+}
+
+.veganherbs{
+    border: 2px solid rgb(3, 3, 3);
+    margin: left 20%;
+    margin: right 20%;
+    margin-bottom: auto 100px;
+}
+
+.vegitables{
+    border: 2px solid rgb(3, 3, 3);
+    margin: left 20%;
+    margin: right 20%;
+    margin-bottom: auto 100px;
+}
+
